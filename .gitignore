@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Local resume files and generated samples
+*.pdf
+*.docx
+sample_resumes/
